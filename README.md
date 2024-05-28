@@ -9,3 +9,7 @@ Blurry image detection was solved via the development of a convolutional neural 
 blurry images containing various objects and their corresponding labels. By using convolutional layers to extract meaningful features and incorporating techniques such as data augmentation to enhance model 
 generalisation, the CNN achieved robust performance in accurately identifying objects within blurry images. The project showcases the effectiveness of CNNs in handling challenging visual tasks, demonstrating their 
 potential applications in real-world scenarios where image quality may be compromised.
+
+![image](https://github.com/laura107/datasetsCompVision/assets/156711189/5efed0e6-68c4-4f35-802b-4bd562e38516)
+![image](https://github.com/laura107/datasetsCompVision/assets/156711189/01f25eb6-885d-4494-a6d6-664b41faa738)
+
